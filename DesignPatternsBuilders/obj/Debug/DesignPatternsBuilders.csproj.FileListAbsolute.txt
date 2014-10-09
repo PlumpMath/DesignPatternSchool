@@ -1,0 +1,6 @@
+C:\Users\Philip\Documents\Visual Studio 2013\Projects\UML Kurs\DesignPatternsSchool\DesignPatternsBuilders\obj\Debug\DesignPatternsBuilders.csprojResolveAssemblyReference.cache
+C:\Users\Philip\Documents\Visual Studio 2013\Projects\UML Kurs\DesignPatternsSchool\DesignPatternsBuilders\bin\Debug\DesignPatternsBuilders.exe.config
+C:\Users\Philip\Documents\Visual Studio 2013\Projects\UML Kurs\DesignPatternsSchool\DesignPatternsBuilders\bin\Debug\DesignPatternsBuilders.exe
+C:\Users\Philip\Documents\Visual Studio 2013\Projects\UML Kurs\DesignPatternsSchool\DesignPatternsBuilders\bin\Debug\DesignPatternsBuilders.pdb
+C:\Users\Philip\Documents\Visual Studio 2013\Projects\UML Kurs\DesignPatternsSchool\DesignPatternsBuilders\obj\Debug\DesignPatternsBuilders.exe
+C:\Users\Philip\Documents\Visual Studio 2013\Projects\UML Kurs\DesignPatternsSchool\DesignPatternsBuilders\obj\Debug\DesignPatternsBuilders.pdb
